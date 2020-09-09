@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BT C#\\Hello\\Hello\\Hello.csproj": {}
+    "E:\\C#\\Chao-hello\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "E:\\BT C#\\Hello\\Hello\\Hello.csproj": {
+    "E:\\C#\\Chao-hello\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BT C#\\Hello\\Hello\\Hello.csproj",
+        "projectUniqueName": "E:\\C#\\Chao-hello\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "E:\\BT C#\\Hello\\Hello\\Hello.csproj",
+        "projectPath": "E:\\C#\\Chao-hello\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\BT C#\\Hello\\Hello\\obj\\",
+        "outputPath": "E:\\C#\\Chao-hello\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
